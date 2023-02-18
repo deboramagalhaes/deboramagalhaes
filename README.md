@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Débora.</h1>
 <h3 align="center">A Data Analyst passionate about generating analysis, value, and building relationships. I also have a backgroud in agile project management.</h3>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deboramagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="deboramagalhaes" /> </p>
+-->
 
 - 💬 Ask me about **SQL, PowerBI**
 
