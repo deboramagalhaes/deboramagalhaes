@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Débora!</h1>
-<h3 align="center">A Data Analyst passionate about generating valuable analyses and building relationships. My agile project management background also gives me a strategic and organized way to develop my work and communicate with a variety of stakeholders. You can see more of my data projects here https://deboramagalhaes.github.io/. </h3>
+<h3 align="center">A data-driven project manager. And that means I'm an enthusiast for turning data into valuable insights to guide business decisions and make the world a better place :)
+Well versed in SQL, PowerBI, Excel, Scrum, and other Project Management tools. You can see more of my data projects here https://deboramagalhaes.github.io/. </h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deboramagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="deboramagalhaes" /> </p>
 -->
 
-- 💬 Ask me about **SQL, PowerBI, Excel**
+- 💬 Ask me about **SQL, PowerBI, Excel, Project Management**
 
 - 📫 How to reach me **deboracbdemagalhaes@gmail.com**
 
