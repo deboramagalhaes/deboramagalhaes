@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Débora!</h1>
-<h3 align="center">A data-driven project manager. And that means I'm an enthusiast for turning data into valuable insights to guide business decisions and make the world a better place :)
-Well versed in SQL, PowerBI, Excel, Scrum, and other Project Management tools. You can see more of my projects here https://deboramagalhaes.github.io/. </h3>
+<h3 align="center">I'm a data-driven project manager. That means I'm an expert in turning data into valuable insights to guide projects, business decisions, and make the world a better place :)
+Well-versed in SQL, PowerBI, Excel, Scrum, MS Project and other Project Management tools and frameworks. You can see more of my projects here https://deboramagalhaes.github.io/. </h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deboramagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="deboramagalhaes" /> </p>
